@@ -31,5 +31,5 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile ('com.facebook.android:facebook-android-sdk:4.38.1')
+    compile ('com.facebook.android:facebook-android-sdk:4.25.1')
 }
